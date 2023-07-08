@@ -1,6 +1,6 @@
 # Fraktalio
 
-We help organizations improve how they design, develop and deliver software.
+[We help organizations improve how they design, develop and deliver software](https://fraktalio.com/).
 
 ## Domain modeling
 
@@ -9,3 +9,5 @@ We help organizations improve how they design, develop and deliver software.
 [fmodel](https://github.com/fraktalio/fmodel) / [fmodel-ts](https://github.com/fraktalio/fmodel-ts) aims to bring functional, algebraic, and reactive domain modeling to Kotlin / TypeScript. It is inspired by DDD, EventSourcing, and Functional programming communities.
 
 💙 Accelerate the development of compositional, ergonomic, and safe applications 💙
+
+![discover, design, develop, depoly](dddd1.png)
