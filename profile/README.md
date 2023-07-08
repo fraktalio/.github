@@ -1,4 +1,5 @@
-# Fraktalio
+# Fraktalio 
+## [fraktalio.com](https://fraktalio.com/) | [blog](https://fraktalio.com/blog/) | [domain modeling](https://fraktalio.com/domain-modeling) | [playground](https://fraktalio.com/blog/playground)
 
 [We help organizations improve how they design, develop and deliver software](https://fraktalio.com/).
 
@@ -11,3 +12,5 @@
 💙 Accelerate the development of compositional, ergonomic, and safe applications 💙
 
 ![discover, design, develop, depoly](dddd1.png)
+
+
