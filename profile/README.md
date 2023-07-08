@@ -1,6 +1,6 @@
 ## [fraktalio.com](https://fraktalio.com/) | [blog](https://fraktalio.com/blog/) | [domain modeling](https://fraktalio.com/domain-modeling) | [playground](https://fraktalio.com/blog/playground)
 
-[We help organizations improve how they design, develop and deliver software](https://fraktalio.com/).
+We help organizations improve how they design, develop and deliver software.
 
 ## Domain modeling
 
