@@ -10,6 +10,11 @@ We help organizations improve how they design, develop and deliver software.
 
 💙 Accelerate the development of compositional, ergonomic, and safe applications 💙
 
+| Decide       | Evolve         | React         |
+| :---         |     :---:      |          ---: |
+| A pure function that takes command and current state as parameters, and returns the flow of new events | A pure function that takes event and current state as parameters, and returns the new state of the system | A pure function that takes event as parameter, and returns the flow of commands, deciding what to execute next |
+| [decide](decide.svg) | [evolve](evolve.svg) | [react](orchestrate.svg) |
+
 ![discover, design, develop, depoly](dddd1.png)
 
 
