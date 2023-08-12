@@ -10,7 +10,7 @@ We help organizations improve how they design, develop and deliver software.
 
 ### F {model}
 
-[fmodel](https://github.com/fraktalio/fmodel) / [fmodel-ts](https://github.com/fraktalio/fmodel-ts) aims to bring functional, algebraic, and reactive domain modeling to Kotlin / TypeScript. It is inspired by DDD, EventSourcing, and Functional programming communities.
+[fmodel](https://github.com/fraktalio/fmodel) / [fmodel-ts](https://github.com/fraktalio/fmodel-ts) is a set of libraries that aims to bring functional, algebraic, and reactive domain modeling to Kotlin / TypeScript. It is inspired by DDD, EventSourcing, and Functional programming communities.
 
 💙 Accelerate the development of compositional, ergonomic, and safe applications 💙
 
@@ -20,8 +20,31 @@ We help organizations improve how they design, develop and deliver software.
 | ![decide](decide.svg) | ![evolve](evolve.svg) | ![react](orchestrate.svg) |
 
 
-#### Demo Applications
+#### FModel Demo Applications
 |        | Event-Sourced  | State-Stored   |
 | :---   |     :---:      |     :---:      |
 | `Kotlin` (Spring) |  [fmodel-spring-demo](https://github.com/fraktalio/fmodel-spring-demo) | [fmodel-spring-state-stored-demo](https://github.com/fraktalio/fmodel-spring-state-stored-demo) |
 | `Kotlin`(Ktor)   |  [fmodel-ktor-demo](https://github.com/fraktalio/fmodel-ktor-demo)     |    todo     |
+
+### Axon Framework
+
+[Axon Framework](https://www.axoniq.io/axoniq-products) reduces the toil of creating event-based applications, simplifies your code, and boosts your developer productivity. It is open source with integrations for multiple messaging and database systems, including [Axon Server](https://www.axoniq.io/products/axon-server).
+
+Are you ready to take your business to new heights? At [Fraktalio](https://fraktalio.com/), we specialize in harnessing the power of Axon Framework to supercharge your company's growth, efficiency, and innovation.
+
+#### Axon services
+
+- *Consultation*: Our experts analyze your business needs, assess the potential of Axon, and provide a tailored roadmap for implementation.
+- *Implementation*: We guide you through every step of Axon integration, from design and development to testing and deployment.
+- *Training*: Empower your team with hands-on workshops and training sessions, ensuring they're equipped to maximize the benefits of Axon Framework.
+
+#### Axon Demo Applications
+
+The systems landscape consists of three
+systems:
+- [order management](https://github.com/fraktalio/order-demo),
+- [restaurant management](https://github.com/fraktalio/restaurant-demo) and
+- [courier management](https://github.com/fraktalio/courier-demo)
+
+*Customers use the web application to place food orders at local restaurants. Application(s) coordinates a
+restaurant/kitchen order preparation and a network of couriers who deliver the orders.*
