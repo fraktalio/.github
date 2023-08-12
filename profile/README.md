@@ -20,4 +20,8 @@ We help organizations improve how they design, develop and deliver software.
 | ![decide](decide.svg) | ![evolve](evolve.svg) | ![react](orchestrate.svg) |
 
 
-
+#### Demo Applications
+|        | Event-Sourced  | State-Stored   |
+| :---   |     :---:      |     :---:      |
+| `Kotlin` (Spring) |  [fmodel-spring-demo](https://github.com/fraktalio/fmodel-spring-demo) | [fmodel-spring-state-stored-demo](https://github.com/fraktalio/fmodel-spring-state-stored-demo) |
+| `Kotlin`(Ktor)   |  [fmodel-ktor-demo](https://github.com/fraktalio/fmodel-ktor-demo)     |    todo     |
