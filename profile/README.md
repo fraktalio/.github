@@ -48,3 +48,6 @@ systems:
 
 *Customers use the web application to place food orders at local restaurants. Application(s) coordinates a
 restaurant/kitchen order preparation and a network of couriers who deliver the orders.*
+
+---
+Excited to launch your next IT project with us? Let's get started! Reach out to our team at info@fraktalio.com to begin the journey to success.
