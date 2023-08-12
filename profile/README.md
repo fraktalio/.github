@@ -8,6 +8,8 @@ We help organizations improve how they design, develop and deliver software.
 
 ![discover, design, develop, depoly](dddd1.png)
 
+---
+
 ### F {model}
 
 [fmodel](https://github.com/fraktalio/fmodel) / [fmodel-ts](https://github.com/fraktalio/fmodel-ts) is a set of libraries that aims to bring functional, algebraic, and reactive domain modeling to Kotlin / TypeScript. It is inspired by DDD, EventSourcing, and Functional programming communities.
@@ -25,6 +27,8 @@ We help organizations improve how they design, develop and deliver software.
 | :---   |     :---:      |     :---:      |
 | `Kotlin` (Spring) |  [fmodel-spring-demo](https://github.com/fraktalio/fmodel-spring-demo) | [fmodel-spring-state-stored-demo](https://github.com/fraktalio/fmodel-spring-state-stored-demo) |
 | `Kotlin`(Ktor)   |  [fmodel-ktor-demo](https://github.com/fraktalio/fmodel-ktor-demo)     |    todo     |
+
+---
 
 ### Axon Framework
 
