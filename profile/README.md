@@ -12,7 +12,7 @@ We help organizations improve how they design, develop and deliver software.
 
 ### F {model}
 
-[fmodel](https://github.com/fraktalio/fmodel) / [fmodel-ts](https://github.com/fraktalio/fmodel-ts) is a set of libraries that aims to bring functional, algebraic, and reactive domain modeling to Kotlin / TypeScript. It is inspired by DDD, EventSourcing, and Functional programming communities.
+[fmodel](https://github.com/fraktalio/fmodel) / [fmodel-ts](https://github.com/fraktalio/fmodel-ts) / [fmodel-rust](https://github.com/fraktalio/fmodel-rust) is a set of libraries that aims to bring functional, algebraic, and reactive domain modeling to Kotlin / TypeScript / Rust. It is inspired by DDD, EventSourcing, and Functional programming communities.
 
 💙 Accelerate the development of compositional, ergonomic, and safe applications 💙
 
@@ -27,6 +27,8 @@ We help organizations improve how they design, develop and deliver software.
 | :---   |     :---:      |     :---:      |
 | `Kotlin` (Spring) |  [fmodel-spring-demo](https://github.com/fraktalio/fmodel-spring-demo) | [fmodel-spring-state-stored-demo](https://github.com/fraktalio/fmodel-spring-state-stored-demo) |
 | `Kotlin`(Ktor)   |  [fmodel-ktor-demo](https://github.com/fraktalio/fmodel-ktor-demo)     |    todo     |
+| `TypeScript`     |  [fmodel-nestjs-demo](https://github.com/fraktalio/fmodel-ktor-demo)     |    todo     |
+| `Rust`           |  todo     |    todo     |
 
 ---
 
