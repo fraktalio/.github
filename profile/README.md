@@ -27,8 +27,8 @@ We help organizations improve how they design, develop and deliver software.
 | :---   |     :---:      |     :---:      |
 | `Kotlin` (Spring) |  [fmodel-spring-demo](https://github.com/fraktalio/fmodel-spring-demo) | [fmodel-spring-state-stored-demo](https://github.com/fraktalio/fmodel-spring-state-stored-demo) |
 | `Kotlin`(Ktor)   |  [fmodel-ktor-demo](https://github.com/fraktalio/fmodel-ktor-demo)     |    todo     |
-| `TypeScript`     |  [fmodel-nestjs-demo](https://github.com/fraktalio/fmodel-ktor-demo)     |    todo     |
-| `Rust`           |  todo     |    todo     |
+| `TypeScript`     |  [fmodel-gift-card-ts](https://github.com/axoniq/giftcard-demo-ts)     |    todo     |
+| `Rust`           |  [fmodel-gift-card-rust](https://github.com/AxonIQ/axon-rust/tree/main/gift-card-rust)     |    todo     |
 
 ---
 
