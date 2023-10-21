@@ -18,10 +18,16 @@ FModel is a set of libraries that aims to bring functional, algebraic, and react
 
 💙 Accelerate the development of compositional, ergonomic, data-driven, and safe applications 💙
 
+| Command      | Event         | State         |
+| :---         |     :---:     |          ---: |
+| An intent to change the state of the system | The state change itself, a fact. It represents a decision that has already happened | The current state of the system. It has evolved out of past events |
+| ![command](command.svg) | ![event](event.svg) | ![state](state.svg) |
+
 | Decide       | Evolve         | React         |
 | :---         |     :---:      |          ---: |
 | A pure function that takes command and current state as parameters, and returns the flow of new events | A pure function that takes event and current state as parameters, and returns the new state of the system | A pure function that takes event as parameter, and returns the flow of commands, deciding what to execute next |
 | ![decide](decide.svg) | ![evolve](evolve.svg) | ![react](orchestrate.svg) |
+
 
 
 #### FModel Demo Applications
