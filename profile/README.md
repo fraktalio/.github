@@ -10,7 +10,7 @@ We help organizations improve how they design, develop and deliver software.
 
 ---
 
-### F {model}
+### f {model}
 
 #### [fmodel-kotlin](https://github.com/fraktalio/fmodel) | [fmodel-ts](https://github.com/fraktalio/fmodel-ts) | [fmodel-rust](https://github.com/fraktalio/fmodel-rust) | [fmodel-java](https://github.com/fraktalio/fmodel-java)
 
@@ -36,6 +36,12 @@ FModel is a set of libraries that aims to bring functional, algebraic, and react
 | `Kotlin`(Ktor)   |  [fmodel-ktor-demo](https://github.com/fraktalio/fmodel-ktor-demo)     |    todo     |
 | `TypeScript`     |  [fmodel-gift-card-ts](https://github.com/axoniq/giftcard-demo-ts)     |    todo     |
 | `Rust`           |  [fmodel-rust-demo](https://github.com/fraktalio/fmodel-rust-demo), [fmodel-gift-card-rust](https://github.com/AxonIQ/axon-rust/tree/main/gift-card-rust)     |    todo     |
+
+### f (store)
+
+A [`Postgres` powered platform](https://github.com/fraktalio/fstore-sql) for efficiently prototyping event-sourcing and event-streaming with a minimal footprint.
+
+💙 Ideal for startups and scaleups. 💙
 
 ---
 
