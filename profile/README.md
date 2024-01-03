@@ -39,7 +39,13 @@ FModel is a set of libraries that aims to bring functional, algebraic, and react
 
 ### f (store)
 
-A [`Postgres` powered platform](https://github.com/fraktalio/fstore-sql) for efficiently prototyping event-sourcing and event-streaming with a minimal footprint.
+A [`Postgres` powered event store](https://github.com/fraktalio/fstore-sql) for efficiently prototyping event-sourcing and event-streaming with a minimal footprint.
+
+It is a platform for efficiently prototyping and implementing event-sourcing and event-streaming without the need for additional infrastructural components.
+All schemas, constraints, and  SQL functions are implemented in the database/close to the data. No additional tools, frameworks, or programming languages are used at this level.
+
+We run it on [Supabase](https://supabase.com/docs/guides/cli/local-development), but you can choose to run it anywhere, with almost all cloud providers, managed or not.
+
 
 💙 Ideal for startups and scaleups. 💙
 
