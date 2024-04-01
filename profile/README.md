@@ -34,7 +34,7 @@ FModel is a set of libraries that aims to bring functional, algebraic, and react
 | :---   |     :---:      |     :---:      |
 | `Kotlin` (Spring) |  [fmodel-spring-demo](https://github.com/fraktalio/fmodel-spring-demo) | [fmodel-spring-state-stored-demo](https://github.com/fraktalio/fmodel-spring-state-stored-demo) |
 | `Kotlin`(Ktor)   |  [fmodel-ktor-demo](https://github.com/fraktalio/fmodel-ktor-demo)     |    todo     |
-| `TypeScript`     |  [fmodel-gift-card-ts](https://github.com/axoniq/giftcard-demo-ts)     |    todo     |
+| `TypeScript`     |  [fmodel-deno-demo](https://github.com/fraktalio/fmodel-deno-demo), [fmodel-gift-card-ts](https://github.com/axoniq/giftcard-demo-ts)     |    todo     |
 | `Rust`           |  [fmodel-rust-demo](https://github.com/fraktalio/fmodel-rust-demo), [fmodel-gift-card-rust](https://github.com/AxonIQ/axon-rust/tree/main/gift-card-rust)     |    todo     |
 
 ### f (store)
