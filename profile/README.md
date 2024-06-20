@@ -6,7 +6,7 @@ We help organizations improve how they design, develop and deliver software.
 
 [Domain modeling](https://fraktalio.com/domain-modeling) is a powerful tool for clarifying and refining our understanding of a subject area, and for identifying opportunities for optimization and improvement. By carefully considering the needs of stakeholders and the nature of the domain, it is possible to create effective and useful models that can facilitate communication and drive progress.
 
-![discover, design, develop, depoly](dddd1.png)
+![discover, design, develop, deploy](../dddd1.png)
 
 ---
 
@@ -25,7 +25,7 @@ FModel is a set of libraries that aims to bring functional, algebraic, and react
 | -       | -         | -         |
 | Decide       | Evolve         | React         |
 | A pure function that takes command and current state as parameters, and returns the flow of new events | A pure function that takes event and current state as parameters, and returns the new state of the system | A pure function that takes event as parameter, and returns the flow of commands, deciding what to execute next |
-| ![decide](decide.svg) | ![evolve](evolve.svg) | ![react](orchestrate.svg) |
+| ![decide](../decide.svg) | ![evolve](../evolve.svg) | ![react](../orchestrate.svg) |
 
 
 
