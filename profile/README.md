@@ -48,6 +48,7 @@ We run it on [Supabase](https://supabase.com/docs/guides/cli/local-development),
 
 
 💙 Ideal for startups and scaleups. 💙
+💙 💙 Check it out [fstore.fraktalio.com](https://fstore.fraktalio.com/) 💙 💙
 
 ---
 
