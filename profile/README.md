@@ -47,8 +47,7 @@ All schemas, constraints, and  SQL functions are implemented in the database/clo
 We run it on [Supabase](https://supabase.com/docs/guides/cli/local-development), but you can choose to run it anywhere, with almost all cloud providers, managed or not.
 
 
-💙 Ideal for startups and scaleups. 💙
-💙 💙 Check it out [fstore.fraktalio.com](https://fstore.fraktalio.com/) 💙 💙
+💙 Ideal for startups and scaleups! 💙 Check it out [fstore.fraktalio.com](https://fstore.fraktalio.com/) 💙
 
 ---
 
